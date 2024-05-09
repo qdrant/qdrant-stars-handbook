@@ -1,0 +1,19 @@
+title: Qdrant Stars Handbook
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-optional-front-matter
+
+navbar-links:
+  Home: 'README.md'
+  Program Overview: 'program_overview.md'
+  Roles and Responsibilities: 'roles_responsibilities.md'
+  Reporting and Feedback: 'reporting_feedback.md'
+  Stars Discord Channel: 'discord_channel.md'
+  Becoming a Qdrant Star: 'be_a_star.md'
+  Training and Onboarding: 'training_onboarding.md'
+  Community Content: 'community_content.md'
+  Meetups and Workshops: 'meetups_workshops.md'
+  Speaking at Conferences: 'speaking_conferences.md'
+  Submitting Expenses: 'submitting_expenses.md'
+  Community Events: 'community_events.md'
+  Helpful Resources: 'helpful_resources.md'
