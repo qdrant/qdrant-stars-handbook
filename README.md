@@ -1,5 +1,29 @@
 # **Qdrant Stars Handbook**
 
+# Table of Contents
+
+1. [Program Overview](#program-overview)
+2. [Roles and Responsibilities](#roles-and-responsibilities)
+3. [Performance Expectations](#performance-expectations)
+4. [Stars Program OKRs and KPIs](#stars-program-okrs-and-kpis)
+5. [Reporting and Feedback](#reporting-and-feedback)
+6. [Stars Discord Channel](#stars-discord-channel)
+7. [Training and Onboarding](#training-and-onboarding)
+   - [Getting Certified](#getting-certified)
+8. [Meetups and Workshops](#meetups-and-workshops)
+   - [Organizing an Event](#organizing-an-event)
+9. [Speaking at Conferences](#speaking-at-conferences)
+   - [Let's Make it Happen](#lets-make-it-happen)
+   - [Travel Expenses](#travel-expenses)
+10. [Submitting Expenses](#submitting-expenses)
+11. [Qdrant Stars](#qdrant-stars)
+    - [Qdrant Stars Application Process](#qdrant-stars-application-process)
+    - [Virtual Stars Hangouts](#virtual-stars-hangouts)
+    - [Nominate a Qdrant Star](#nominate-a-qdrant-star)
+12. [Community Events](#community-events)
+13. [Community Content](#community-content)
+    - [Content Rewards Program](#content-rewards-program)
+14. [Helpful Resources](#helpful-resources)
 
 # Program Overview
 
@@ -10,7 +34,7 @@ As a Qdrant Star, you'll be equipped with exclusive resources, training, and dir
 Your contributions will be amplified, celebrated, and essential in shaping the future direction of the Qdrant ecosystem.
 
 
-## Roles and Responsibilities of Ambassadors
+## Roles and Responsibilities
 
 **It's not about how much you do, it's about the impact.** We track how your activities help the community grow, so we can support you in the best way possible. Here's what we expect from our Qdrant Stars ambassadors, bearing in mind that you can choose areas where you feel you can make the most impact:
 
@@ -120,7 +144,7 @@ We have set up a private dedicated <span style="text-decoration:underline;">Disc
 Need access to the channel? Contact the program manager with your Discord username for the necessary permissions.
 
 
-# Training and Onboarding (to do)
+# Training and Onboarding
 
 To ensure you are fully equipped to succeed as an ambassador, we have a series of initial training sessions and a certification process. This section will guide you through what to expect from the training and how to obtain your Qdrant Stars Certification.
 
