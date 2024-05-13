@@ -1,5 +1,5 @@
 title: Qdrant Stars Handbook
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-optional-front-matter
 
