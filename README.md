@@ -1,7 +1,5 @@
 # **Qdrant Stars Handbook**
 
-# Table of Contents
-
 1. [Program Overview](#program-overview)
 2. [Roles and Responsibilities](#roles-and-responsibilities)
 3. [Performance Expectations](#performance-expectations)
