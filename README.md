@@ -3,8 +3,6 @@
 1. [Program Overview](#program-overview)
 2. [Benefits](#benefits)
    - [Content Rewards Program](#content-rewards-program)
-     - [Creator of the Month](#creator-of-the-month)
-     - [Additional Incentives](#additional-incentives)
    - [Exclusive Access to Resources](#exclusive-access-to-resources)
    - [Conference Support for Speakers](#conference-support-for-speakers)
    - [Getting Certified](#getting-certified)
@@ -36,12 +34,9 @@ Your contributions will be amplified, celebrated, and essential in shaping the f
 
 # Benefits
 
+Great contributions takes time, passion and dedication. To show our sincere appreciation and celebrate those who consistently make a remarkable impact, we've built a content reward program.
 
 ## Content Rewards Program
-
-We see the passion and dedication you pour into your work. To show our sincere appreciation and celebrate those who consistently make a remarkable impact, we've built a content reward program.
-
-
 ### Creator of the Month:
 
 The Creator of the Month celebrates the Qdrant Star who created the most impact with their content in the community. Every month, we highlight the top content creator across all our channels, celebrating their impactful contributions to the community. The top creator each month receives an exclusive package of Qdrant merchandise and a $500 reward to honor their work.
