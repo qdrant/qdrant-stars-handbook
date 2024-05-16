@@ -80,7 +80,7 @@ We encourage all Qdrant ambassadors to speak at conferences. It's a great way to
 * Global Opportunities: If you're interested in traveling abroad, aim for well-known conferences that attract industry leaders and influencers. This will maximize your visibility and expand your networking opportunities.
 * Local Engagement: We also strongly support speaking at major conferences within your own country to strengthen local connections and boost our presence nearby.
 
-Need help deciding which conferences to attend? Talk to our team or to your peers on the <span style="text-decoration:underline;">Qdrant Stars Discord Channel</span> for insights into which events might offer the most benefit based on your expertise.
+Need help deciding which conferences to attend? Talk to our team or to your peers on the [Qdrant Stars Discord Channel](discord.gg/qdrant) for insights into which events might offer the most benefit based on your expertise.
 
 We offer resources to help you prepare impactful presentations. From presentation templates and slides from past talks to essential Qdrant talking points. Plus, enjoy a one-on-one coaching session to polish your presentation with our DevRel team.
 
@@ -196,7 +196,7 @@ The Most Active Member Reward recognizes and celebrates the Qdrant Star who cons
 
 # Get Started
 
-Qdrant Stars are passionate advocates and leaders in the vector search community. Each member brings unique expertise and contributes significantly to advancing and improving vector search technology. To learn more about each of our Stars and their contributions, please visit <span style="text-decoration:underline;">Qdrant Stars Member Page</span>.
+Qdrant Stars are passionate advocates and leaders in the vector search community. Each member brings unique expertise and contributes significantly to advancing and improving vector search technology. To learn more about each of our Stars and their contributions, please visit Qdrant Stars Member Page on our website.
 
 
 ## Qdrant Stars Application Process
@@ -225,7 +225,7 @@ We love it when our community helps us grow by identifying new talent! If you kn
 
 ### How to Nominate:
 
-Please complete <span style="text-decoration:underline;">this nomination form</span> to tell us about your nominee. The form will ask for some basic details about the candidate and why you think they’d be a perfect addition to the Qdrant Stars.
+Please complete [this nomination form](https://forms.gle/LSTxs9ZZ9mAuQ99NA) to tell us about your nominee. The form will ask for some basic details about the candidate and why you think they’d be a perfect addition to the Qdrant Stars.
 
 
 ## Stars Discord Channel
