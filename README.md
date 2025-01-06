@@ -33,14 +33,13 @@ Your contributions will be amplified, celebrated, and essential in shaping the f
 
 # Benefits
 
+As a Qdrant Star, you gain exclusive access to resources, financial rewards, and support for content creation, events, and certifications. This program is designed to amplify your impact, help you grow as a leader, and empower you to shape the future of vector search technology.
+
 ## Exclusive Access to Resources
 
-### Early Access 
-Gain privileged access to Qdrant’s newest features and beta products before their public release. This means you’ll be among the first to explore, test, and even shape our latest innovations.
-### Feedback Loop 
-Your insights and ideas are essential. As a Star, your feedback on new features and functionalities shapes the direction of Qdrant’s development. You’re not just using Qdrant, you’re helping us to build it.
-### Product Meetings 
-Be part of exclusive R&D sessions hosted by our Core team. These webinars disclose upcoming vector search features, technical innovations, and the thinking behind our product roadmap, giving you a front-row seat to Qdrant’s evolution.
+- **Early Access**: Get firsthand access to Qdrant’s newest features and beta products before their public release. This means you’ll be among the first to explore, test, and even shape our latest innovations.
+- **Feedback Loop**: Your experience and ideas are essential. As a Star, your feedback on new features and functionalities shapes the direction of Qdrant’s development. You’re not just using Qdrant, you’re helping us to build it.
+- **Product Meetings**: Be part of exclusive R&D sessions hosted by our Core team. These webinars disclose upcoming vector search features, technical innovations, and the thinking behind our product roadmap, giving you a front-row seat to Qdrant’s evolution.
 
 ## Conference Support for Speakers
 
