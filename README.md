@@ -3,8 +3,6 @@
 1. [Program Overview](#program-overview)
 2. [Benefits](#benefits)
    - [Content Rewards Program](#content-rewards-program)
-     - [Creator of the Month](#creator-of-the-month)
-     - [Additional Incentives](#additional-incentives)
    - [Exclusive Access to Resources](#exclusive-access-to-resources)
    - [Conference Support for Speakers](#conference-support-for-speakers)
    - [Getting Certified](#getting-certified)
@@ -104,6 +102,7 @@ To determine the appropriate reward category for your contribution, we evaluate 
 * Reach: How many people can benefit from this contribution? Does it increase Qdrant’s visibility and adoption?
 * Complexity: What level of expertise or effort was required? Is it a straightforward guide or a deep dive into an advanced topic?
 
+
 # Supported Activities
 
 
@@ -167,7 +166,6 @@ You're not alone in promoting your events. We are here to provide support to ens
 ## Engagement and Leadership
 
 
-
 * **Initiate and Participate in Discussions:** Engage actively in both online and offline community forums, sparking conversations and providing valuable insights on vector search technology.
 * **Interact with Qdrant Content:** From our team, from other Stars, or from other community members, it’s important to foster a culture of supporting each other content and increasing the visibility of our creators. 
 * **Welcome New Members:** Act as a knowledgeable point of contact for newcomers, helping them find resources and get involved.
@@ -188,6 +186,7 @@ The Most Active Member Reward recognizes and celebrates the Qdrant Star who cons
 
 Qdrant Stars are passionate advocates and leaders in the vector search community. Each member brings unique expertise and contributes significantly to advancing and improving vector search technology. To learn more about each of our Stars and their contributions, please visit <span style="text-decoration:underline;">Qdrant Stars Member Page</span>.
 
+
 ## Qdrant Stars Application Process
 
 ### Joining the Qdrant Stars requires:
@@ -199,7 +198,7 @@ Qdrant Stars are passionate advocates and leaders in the vector search community
 
 ### Communication with Other Stars
 
-We keep all Qdrant Stars informed with monthly newsletters and instant updates via our exclusive Stars Discord channel. We also conduct** **bi-monthly** feedback sessions** to gather insights from Stars on how we can improve the program and bi-monthly **hangout meetings** where Stars can network, share ideas, and discuss their projects in a supportive environment.
+We keep all Qdrant Stars informed with monthly newsletters and instant updates via our exclusive Stars Discord channel. We also conduct **bi-monthly** feedback sessions to gather insights from Stars on how we can improve the program and bi-monthly **hangout meetings** where Stars can network, share ideas, and discuss their projects in a supportive environment.
 
 These meetings are an opportunity to share updates, discuss challenges, and collaborate on solutions. They also serve as a place for you to connect with other Stars and learn from each other. Participation is highly encouraged and you will receive an invitation with the agenda and virtual meeting link prior to each meeting.
 
@@ -211,7 +210,7 @@ We love it when our community helps us grow by identifying new talent! If you kn
 
 ### How to Nominate:
 
-Please complete <span style="text-decoration:underline;">this nomination form</span> to tell us about your nominee. The form will ask for some basic details about the candidate and why you think they’d be a perfect addition to the Qdrant Stars.
+Please complete [this nomination form](https://forms.gle/LSTxs9ZZ9mAuQ99NA) to tell us about your nominee. The form will ask for some basic details about the candidate and why you think they’d be a perfect addition to the Qdrant Stars.
 
 
 ## Stars Discord Channel
@@ -224,21 +223,6 @@ We have set up a private dedicated [Discord channel](discord.gg/qdrant) for all 
 ## Reporting and Feedback
 
 Help us enhance the program by reporting your activities and providing feedback on what worked well, what could be improved, and any suggestions you may have.
-
-
-#### Monthly Activity Reporting
-
-Each month, you'll receive an email with a link to a form to report your activities, including:
-
-
-
-* Events you've organized or participated in
-* Content you've created
-* Engagements within the community
-* Any challenges you faced
-* Suggestions for improving the program
-
-Fill out the quick monthly activity form to share details about your contributions. This information helps us understand your impact and provide even better support.
 
 
 ### Quarterly Surveys
@@ -298,18 +282,18 @@ We’ve compiled a list of essential resources. These articles, videos, and cour
 ### Articles:
 
 
-
 * [What is a Vector Database?](https://qdrant.tech/articles/what-is-a-vector-database/)
+* [What is Vector Quantization?](https://qdrant.tech/articles/what-is-vector-quantization/)
 * [Overview of Vector Search](https://qdrant.tech/documentation/overview/vector-search/)
 * [What are Embeddings?](https://qdrant.tech/articles/what-are-embeddings/)
-* [Binary Quantization](https://qdrant.tech/articles/binary-quantization/)
+* [A Complete Guide to Filtering in Vector Search](https://qdrant.tech/articles/vector-search-filtering/)
 * [FastEmbed: Efficient and Scalable Embedding Technique](https://qdrant.tech/articles/fastembed/)
 * [What is RAG?](https://qdrant.tech/articles/what-is-rag-in-ai/)
-* [Understanding Multitenancy](https://qdrant.tech/articles/multitenancy/)
+* [How to Implement Multitenancy and Custom Sharding in Qdrant](https://qdrant.tech/articles/multitenancy/)
+* [Hybrid Search Revamped - Building with Qdrant's Query API](https://qdrant.tech/articles/hybrid-search/)
 
 
 ### Videos:
-
 
 
 * [How Vector Search Works](https://youtu.be/bU38Ovdh3NY?si=NAFOl59q1JfoR7ha)
@@ -318,10 +302,10 @@ We’ve compiled a list of essential resources. These articles, videos, and cour
 * [Exploring Qdrant concepts - Collections](https://www.youtube.com/watch?v=0sg7pJo0siU&t=141s)
 
 
-### Course:
+### Courses:
 
 
-
-* [Introduction to RAG on Coursera](https://www.coursera.org/projects/introduction-to-rag)
+* [Introduction to RAG](https://www.coursera.org/projects/introduction-to-rag)
+* [Retrieval Optimization: From Tokenization to Vector Quantization](https://www.deeplearning.ai/short-courses/retrieval-optimization-from-tokenization-to-vector-quantization/)
 
 Feel free to explore these links and share your learnings with the community!
