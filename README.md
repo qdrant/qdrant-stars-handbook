@@ -163,7 +163,7 @@ Choosing the right format is crucial for the success of any event. Here are some
 * **Workshops:** Conduct hands-on sessions where participants can learn specific skills related to Qdrant. These practical learning experiences are designed to enhance proficiency and confidence in using our tools.
 * **Bootcamps:** Offer intensive, immersive bootcamps designed to provide deep dives into specific aspects of vector search technology. These events are perfect for attendees looking to rapidly enhance their skills and knowledge over a few days of focused training.
 * **Hackathons:** Organize hackathons to challenge participants to create innovative solutions using Qdrant’s technology. These events not only foster creativity and problem-solving but also allow participants to demonstrate practical applications of their skills in a competitive and collaborative setting.
-* **Panel Discussions:** Go into current trends or challenges in the vector search field with a panel of experts. Great for lively discussions and insights directly from industry leaders. Do you have a panel discussion idea? Why not host it on Vector Voices?
+* **Panel Discussions:** Go into current trends or challenges in the vector search field with a panel of experts. Great for lively discussions and insights directly from industry leaders. Do you have a panel discussion idea? Why not host it on Office Hours?
 
 
 ### Promotion Support:
@@ -271,14 +271,6 @@ Community events bring together people who are enthusiastic about vector search 
 **Be a spotlight speaker**! These talks are about user advocacy, highlighting the real-world impact of Qdrant's vector search technology through your stories and experiences.
 
 Curious about past talks? Check out our [playlist of previous Vector Space Talks](https://www.youtube.com/watch?v=4aUq5VnR_VI&list=PL9IXkWSmb36_eANzd_sKeQ3tXbFiEGEWn) to see how others have successfully leveraged our technology.
-
-
-### Vector Voices
-
-This Twitter Spaces series is your chance to connect with the who's who of vector search! We'll be talking to leading voices in vector search for insightful conversations you won't want to miss. **Join us for the next Vector Voices session!** Check out our schedule on the Discord events page or follow us on Twitter to catch live sessions and participate
-
-Are you interested in leading or suggesting a Vector Voices session or have a potential speaker suggestion? Reach out to us via the [Discord Channel](discord.ggqdrant). We’re always looking for new ideas and leaders to bring fresh perspectives to our community.
-
 
 ### Discord Office Hours
 
