@@ -33,54 +33,20 @@ Your contributions will be amplified, celebrated, and essential in shaping the f
 
 **It's not about how much you do, it's about the impact.** We track how your activities help the community grow, so we can support you in the best way possible.
 
-
 # Benefits
-
-
-## Content Rewards Program
-
-We see the passion and dedication you pour into your work. To show our sincere appreciation and celebrate those who consistently make a remarkable impact, we've built a content reward program.
-
-
-### Creator of the Month:
-
-The Creator of the Month celebrates the Qdrant Star who created the most impact with their content in the community. Every month, we highlight the top content creator across all our channels, celebrating their impactful contributions to the community. The top creator each month receives an exclusive package of Qdrant merchandise and a $500 reward to honor their work.
-
-
-#### Criteria for Selection:
-
-
-
-* Quality of Content: Your work should be well-researched, clear, and up to our high standards.
-* Innovation and Creativity: We love content that brings new ideas or creative approaches to common topics.
-* Community Impact: Your content should get people talking. We’re looking for pieces that generate views, shares, and positive feedback.
-* Consistency: Keep the great content coming! Regular contributors that engage and educate our community will have a higher chance of winning.
-
-
-### Additional Incentives:
-
-
-
-* Awards are handed out for 'Most Innovative Content', 'Best Tutorial', and 'Community Favorite', among others. Each category recognizes a different kind of excellence by the end of each quarter.
-* Creators can earn additional rewards including bonuses, gift cards, substantial discounts on technology products, and free passes to the top industry conferences. All these perks are our way of recognizing your ongoing efforts and creativity.
-
 
 ## Exclusive Access to Resources
 
-
-
-* Early Access: Get early access to new features and beta products from Qdrant, allowing you to be among the first to explore and write about our latest developments.
-* Feedback Loop: Your insights are invaluable, and we use them to improve our offerings continually. Your feedback on new features helps us shape the future of our technology.
-
+* Early Access: Gain privileged access to Qdrant’s newest features and beta products before their public release. This means you’ll be among the first to explore, test, and even shape our latest innovations.
+* Feedback Loop: Your insights and ideas are essential. As a Star, your feedback on new features and functionalities shapes the direction of Qdrant’s development. You’re not just using Qdrant, you’re helping us to build it.
+* Product Meetings: Be part of exclusive R&D sessions hosted by our Core team. These webinars disclose upcoming vector search features, technical innovations, and the thinking behind our product roadmap, giving you a front-row seat to Qdrant’s evolution.
 
 ## Conference Support for Speakers
 
-We encourage all Qdrant ambassadors to speak at conferences. It's a great way to promote our technology, build your professional reputation, and connect with others in the tech community.
+Public speaking is a powerful way to amplify your voice and share your expertise. Whether it’s a local meetup or a global conference, we’re here to support you with resources, coaching, and promotional materials. Plus, we’ll reimburse your travel expenses, just submit a report after the event.
 
 
 ### Choosing a Conference:
-
-
 
 * Global Opportunities: If you're interested in traveling abroad, aim for well-known conferences that attract industry leaders and influencers. This will maximize your visibility and expand your networking opportunities.
 * Local Engagement: We also strongly support speaking at major conferences within your own country to strengthen local connections and boost our presence nearby.
@@ -93,28 +59,50 @@ Before the event, you can schedule a rehearsal with our team to run through your
 
 We supply a range of promotional materials, such as stickers, Qdrant cards, and branded swag, to help you engage your audience and leave a mark. **After your trip, submit all receipts along with a travel expense report to get reimbursed.**
 
+## Content Rewards Program
 
-## Getting Certified
+We see the passion and dedication you pour into your work and it deserves to be celebrated. Our reward system is designed to recognize contributions at every level, ensuring that every effort, big or small, is appreciated. Here’s how the rewards break down:
 
-Certification is an exclusive perk of the Qdrant Stars Program that recognizes your readiness and capability to act as a Qdrant ambassador and vector search specialist. To receive your certificate, you need to have completed the following steps at the end of each quarter:
+## Small Contributions
 
+Examples: Blog posts, quick tutorials, minor technical solutions
 
+Reward: $25 - $50
 
-1. **Complete All Training Modules:** Ensure you have gone through all the training sessions provided by the Qdrant team and understand the material covered.
-2. **Pass the Certification Test:** At the end of the training period, you will take a test that covers all aspects of the training materials. This test ensures you have the necessary knowledge to effectively represent Qdrant.
-3. **Engagement Verification:** As part of your training's practical application, participate in at least one community activity (such as a meetup or webinar).
+Sometimes, the smallest contributions can make the biggest difference. A well-written blog post or a concise tutorial on solving a common issue can save countless hours for new users and make Qdrant more accessible.
 
+## Medium Contributions
 
-### Test Details
+Examples: In-depth guides, technical walkthroughs, detailed code examples
 
+Reward: $75 - $150
 
+These contributions dive deeper, providing users with practical insights and actionable steps. A medium-level tutorial that integrates Qdrant into a real-world project, or detailed answers to technical questions, can elevate our community’s knowledge base.
 
-* Format: Multiple choice and short answers.
-* Duration: The test will typically take about 30-60 minutes to complete.
-* Passing Criteria: A score of 75% or higher is required to pass.
+## Large Contributions
 
-To ensure you also stay updated with the latest in vector search technology and community management, we will provide ongoing training opportunities. These will include updates on new tools, advanced communication strategies, and emerging trends in the tech community.
+Examples: Open-source integrations, demo applications, hosting webinars
 
+Reward: $200 - $500
+
+High-impact contributions that take time, expertise, and a creative vision. Building tools, creating demo apps, or hosting webinars that showcase Qdrant in action are invaluable for both newcomers and seasoned users.
+
+## Special Achievements
+
+Examples: Flagship resources, impactful projects, successful community events
+
+Reward: $500 - $1,000 (or more)
+
+These are the contributions that set new standards. Whether it’s a comprehensive guide to advanced features or organizing a global hackathon, these efforts have a lasting impact on the Qdrant ecosystem.
+
+### Criteria for Selection:
+
+To determine the appropriate reward category for your contribution, we evaluate based on:
+
+* Quality of Content: How does the contribution benefit the Qdrant community? Does it solve a problem, address a need, or inspire further engagement?
+* Innovation and Creativity: Does the contribution bring new ideas or perspectives? Is it an innovative use case or a fresh solution?
+* Reach: How many people can benefit from this contribution? Does it increase Qdrant’s visibility and adoption?
+* Complexity: What level of expertise or effort was required? Is it a straightforward guide or a deep dive into an advanced topic?
 
 # Supported Activities
 
@@ -125,7 +113,6 @@ Content is a crucial aspect of the Qdrant Stars program. These publications can 
 
 
 ### Editorial and Technical Support
-
 
 
 * **Editorial Assistance:** Our editorial team is ready to help you refine your written content. We ensure your work is clear, engaging, and grammatically correct so your ideas stand out.
@@ -193,8 +180,6 @@ The Most Active Member Reward recognizes and celebrates the Qdrant Star who cons
 
 #### Criteria for Selection
 
-
-
 * **Participation Frequency**: Regular involvement in community forums such as Reddit or HackerNews, as well as discussions and events.
 * **Quality Contributions:** Provides helpful responses, creates high-quality content, or initiates new discussions.
 
@@ -203,13 +188,9 @@ The Most Active Member Reward recognizes and celebrates the Qdrant Star who cons
 
 Qdrant Stars are passionate advocates and leaders in the vector search community. Each member brings unique expertise and contributes significantly to advancing and improving vector search technology. To learn more about each of our Stars and their contributions, please visit <span style="text-decoration:underline;">Qdrant Stars Member Page</span>.
 
-
 ## Qdrant Stars Application Process
 
-
 ### Joining the Qdrant Stars requires:
-
-
 
 * **Submission of an Application:** Prospective members must submit an application detailing their experience with vector search technologies and their vision for contributing to the community. If you wish to become a member, please fill out the [Qdrant Stars Application Form](https://forms.gle/oxpFaDtx4pAztF8w6).
 * **Review Process:** Our panel reviews applications monthly, focusing on the applicant’s expertise, community engagement, and potential to influence the field.
