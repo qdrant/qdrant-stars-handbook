@@ -35,9 +35,12 @@ Your contributions will be amplified, celebrated, and essential in shaping the f
 
 ## Exclusive Access to Resources
 
-* Early Access: Gain privileged access to Qdrant’s newest features and beta products before their public release. This means you’ll be among the first to explore, test, and even shape our latest innovations.
-* Feedback Loop: Your insights and ideas are essential. As a Star, your feedback on new features and functionalities shapes the direction of Qdrant’s development. You’re not just using Qdrant, you’re helping us to build it.
-* Product Meetings: Be part of exclusive R&D sessions hosted by our Core team. These webinars disclose upcoming vector search features, technical innovations, and the thinking behind our product roadmap, giving you a front-row seat to Qdrant’s evolution.
+### Early Access 
+Gain privileged access to Qdrant’s newest features and beta products before their public release. This means you’ll be among the first to explore, test, and even shape our latest innovations.
+### Feedback Loop 
+Your insights and ideas are essential. As a Star, your feedback on new features and functionalities shapes the direction of Qdrant’s development. You’re not just using Qdrant, you’re helping us to build it.
+### Product Meetings 
+Be part of exclusive R&D sessions hosted by our Core team. These webinars disclose upcoming vector search features, technical innovations, and the thinking behind our product roadmap, giving you a front-row seat to Qdrant’s evolution.
 
 ## Conference Support for Speakers
 
@@ -46,61 +49,74 @@ Public speaking is a powerful way to amplify your voice and share your expertise
 
 ### Choosing a Conference:
 
-* Global Opportunities: If you're interested in traveling abroad, aim for well-known conferences that attract industry leaders and influencers. This will maximize your visibility and expand your networking opportunities.
-* Local Engagement: We also strongly support speaking at major conferences within your own country to strengthen local connections and boost our presence nearby.
+- **Global Conferences**: If you're interested in traveling abroad, aim for well-known conferences that attract industry leaders and influencers. This maximizes your visibility and expands your networking opportunities.
+- **Local Conferences**: We strongly support speaking at major conferences within your own country to strengthen local connections and boost our presence nearby.
 
-Need help deciding which conferences to attend? Talk to our team or to your peers on the <span style="text-decoration:underline;">Qdrant Stars Discord Channel</span> for insights into which events might offer the most benefit based on your expertise.
+Need help deciding which conferences to attend? Talk to our team or to your peers on the [Qdrant Stars Discord Channel](https://discord.com/invite/qdrant) for insights into which events might offer the most benefit based on your expertise.
 
-We offer resources to help you prepare impactful presentations. From presentation templates and slides from past talks to essential Qdrant talking points. Plus, enjoy a one-on-one coaching session to polish your presentation with our DevRel team.
+### Resources and Preparation
+
+We offer a variety of resources to help you prepare impactful presentations, including:
+
+- **Presentation Templates**: Access ready-to-use templates and slides from past talks.
+- **Essential Talking Points**: Highlight key features and benefits of Qdrant in your presentation.
+- **One-on-One Coaching**: Schedule a coaching session with our DevRel team to refine your presentation skills.
 
 Before the event, you can schedule a rehearsal with our team to run through your talk. You’ll receive constructive feedback to fine-tune your performance, ensuring you deliver your message confidently and effectively.
 
-We supply a range of promotional materials, such as stickers, Qdrant cards, and branded swag, to help you engage your audience and leave a mark. **After your trip, submit all receipts along with a travel expense report to get reimbursed.**
+### Promotional Materials
+
+We supply a range of promotional materials, such as:
+
+- **Stickers**  
+- **Qdrant Cards**  
+- **Branded Swag**
+
+These materials help you engage your audience and leave a lasting impression.
+
+**Note**: After your trip, submit all receipts along with a travel expense report to get reimbursed.
+
 
 ## Content Rewards Program
 
-We see the passion and dedication you pour into your work and it deserves to be celebrated. Our reward system is designed to recognize contributions at every level, ensuring that every effort, big or small, is appreciated. Here’s how the rewards break down:
+We recognize and celebrate the passion and dedication you bring to your work. Our reward system is designed to acknowledge contributions at every level, ensuring that every effort, big or small, is valued.
 
-## Small Contributions
+### Small Contributions
 
-Examples: Blog posts, quick tutorials, minor technical solutions
+**Examples**: Blog posts, quick tutorials, minor technical solutions  
+**Reward**: $25 - $50
 
-Reward: $25 - $50
+Sometimes, the smallest contributions can have the biggest impact. A well-written blog post or a concise tutorial on solving a common issue can save countless hours for new users and make Qdrant more accessible.
 
-Sometimes, the smallest contributions can make the biggest difference. A well-written blog post or a concise tutorial on solving a common issue can save countless hours for new users and make Qdrant more accessible.
+### Medium Contributions
 
-## Medium Contributions
-
-Examples: In-depth guides, technical walkthroughs, detailed code examples
-
-Reward: $75 - $150
+**Examples**: In-depth guides, technical walkthroughs, detailed code examples  
+**Reward**: $75 - $150
 
 These contributions dive deeper, providing users with practical insights and actionable steps. A medium-level tutorial that integrates Qdrant into a real-world project, or detailed answers to technical questions, can elevate our community’s knowledge base.
 
-## Large Contributions
+### Large Contributions
 
-Examples: Open-source integrations, demo applications, hosting webinars
+**Examples**: Open-source integrations, demo applications, hosting webinars  
+**Reward**: $200 - $500
 
-Reward: $200 - $500
+High-impact contributions that require significant time, expertise, and a creative vision. Building tools, creating demo apps, or hosting webinars that showcase Qdrant in action are invaluable for both newcomers and seasoned users.
 
-High-impact contributions that take time, expertise, and a creative vision. Building tools, creating demo apps, or hosting webinars that showcase Qdrant in action are invaluable for both newcomers and seasoned users.
+### Special Achievements
 
-## Special Achievements
+**Examples**: Flagship resources, impactful projects, successful community events  
+**Reward**: $500 - $1,000 (or more)
 
-Examples: Flagship resources, impactful projects, successful community events
+These are contributions that set new standards. Whether it’s a comprehensive guide to advanced features or organizing a global hackathon, these efforts have a lasting impact on the Qdrant ecosystem.
 
-Reward: $500 - $1,000 (or more)
-
-These are the contributions that set new standards. Whether it’s a comprehensive guide to advanced features or organizing a global hackathon, these efforts have a lasting impact on the Qdrant ecosystem.
-
-### Criteria for Selection:
+### Criteria for Selection
 
 To determine the appropriate reward category for your contribution, we evaluate based on:
 
-* Quality of Content: How does the contribution benefit the Qdrant community? Does it solve a problem, address a need, or inspire further engagement?
-* Innovation and Creativity: Does the contribution bring new ideas or perspectives? Is it an innovative use case or a fresh solution?
-* Reach: How many people can benefit from this contribution? Does it increase Qdrant’s visibility and adoption?
-* Complexity: What level of expertise or effort was required? Is it a straightforward guide or a deep dive into an advanced topic?
+- **Quality of Content**: How does the contribution benefit the Qdrant community? Does it solve a problem, address a need, or inspire further engagement?
+- **Innovation and Creativity**: Does the contribution bring new ideas or perspectives? Is it an innovative use case or a fresh solution?
+- **Reach**: How many people can benefit from this contribution? Does it increase Qdrant’s visibility and adoption?
+- **Complexity**: What level of expertise or effort was required? Is it a straightforward guide or a deep dive into an advanced topic?
 
 
 # Supported Activities
