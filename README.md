@@ -143,8 +143,6 @@ Content is a crucial aspect of the Qdrant Stars program. These publications can 
 
 ### Community Collaboration:
 
-
-
 * **Networking Opportunities:** Connect with other content creators and industry experts in our network. Share ideas, receive feedback, and collaborate on exciting new projects.
 * **Collaboration Platform:** You can use the [Discord Channel](discord.gg/qdrant) with the other Qdrant Stars to discuss challenges, exchange ideas, and support each other’s content creation efforts.
 
@@ -184,17 +182,6 @@ You're not alone in promoting your events. We are here to provide support to ens
 * **Initiate and Participate in Discussions:** Engage actively in both online and offline community forums, sparking conversations and providing valuable insights on vector search technology.
 * **Interact with Qdrant Content:** From our team, from other Stars, or from other community members, it’s important to foster a culture of supporting each other content and increasing the visibility of our creators. 
 * **Welcome New Members:** Act as a knowledgeable point of contact for newcomers, helping them find resources and get involved.
-
-
-### Most Active Member Reward
-
-The Most Active Member Reward recognizes and celebrates the Qdrant Star who consistently engaged the most within our community, adding value through their involvement in Qdrant’s shared content, social media, and online discussions. Every month, the most active member is chosen to receive an exclusive package of Qdrant merchandise and a $500 reward to honor their time and insights.
-
-
-#### Criteria for Selection
-
-* **Participation Frequency**: Regular involvement in community forums such as Reddit or HackerNews, as well as discussions and events.
-* **Quality Contributions:** Provides helpful responses, creates high-quality content, or initiates new discussions.
 
 
 # Get Started
