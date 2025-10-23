@@ -122,9 +122,9 @@ These are the hallmark contributions — projects or resources that stay valuabl
 Some contributions now have fixed reward amounts for faster recognition:
 
 Type	Reward	Notes
-🎥 YouTube Video (>5 minutes)	$175+	Must cover Qdrant meaningfully — e.g., tutorial, performance demo, or integration showcase.
-💼 LinkedIn Post	$10 each	Max 5 per month, no re-posts. Posts should provide genuine insights or updates about Qdrant.
-🌍 Star Referral Bonus (USA & Western/Northern Europe)	$500 flat Valid for 6 months. Applies to community referrals or events in Priority Zones.
+- 🎥 YouTube Video (>5 minutes)	$175+	Must cover Qdrant meaningfully — e.g., tutorial, performance demo, or integration showcase.
+- 💼 LinkedIn Post	$10 each	Max 5 per month, no re-posts. Posts should provide genuine insights or updates about Qdrant.
+- 🌍 Star Referral Bonus (USA & Western/Northern Europe)	$500 flat Valid for 6 months. Applies to community referrals or events in Priority Zones.
 
 
 ## In-Person Events
