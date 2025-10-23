@@ -121,7 +121,6 @@ These are the hallmark contributions — projects or resources that stay valuabl
 
 Some contributions now have fixed reward amounts for faster recognition:
 
-Type	Reward	Notes
 - 🎥 YouTube Video (>5 minutes)	$175+	Must cover Qdrant meaningfully — e.g., tutorial, performance demo, or integration showcase.
 - 💼 LinkedIn Post	$10 each	Max 5 per month, no re-posts. Posts should provide genuine insights or updates about Qdrant.
 - 🌍 Star Referral Bonus (USA & Western/Northern Europe)	$500 flat Valid for 6 months. Applies to community referrals or events in Priority Zones.
@@ -218,18 +217,6 @@ You're not alone in promoting your events. We are here to provide support to ens
 * **Interact with Qdrant Content:** From our team, from other Stars, or from other community members, it’s important to foster a culture of supporting each other content and increasing the visibility of our creators. 
 * **Welcome New Members:** Act as a knowledgeable point of contact for newcomers, helping them find resources and get involved.
 
-
-### Most Active Member Reward
-
-The Most Active Member Reward recognizes and celebrates the Qdrant Star who consistently engaged the most within our community, adding value through their involvement in Qdrant’s shared content, social media, and online discussions. Every month, the most active member is chosen to receive an exclusive package of Qdrant merchandise and a $500 reward to honor their time and insights.
-
-
-#### Criteria for Selection
-
-* **Participation Frequency**: Regular involvement in community forums such as Reddit or HackerNews, as well as discussions and events.
-* **Quality Contributions:** Provides helpful responses, creates high-quality content, or initiates new discussions.
-
-
 # Get Started
 
 Qdrant Stars are passionate advocates and leaders in the vector search community. Each member brings unique expertise and contributes significantly to advancing and improving vector search technology. To learn more about each of our Stars and their contributions, please visit <span style="text-decoration:underline;">Qdrant Stars Member Page</span>.
@@ -239,7 +226,7 @@ Qdrant Stars are passionate advocates and leaders in the vector search community
 
 ### Joining the Qdrant Stars requires:
 
-* **Submission of an Application:** Prospective members must submit an application detailing their experience with vector search technologies and their vision for contributing to the community. If you wish to become a member, please fill out the [Qdrant Stars Application Form](https://forms.gle/oxpFaDtx4pAztF8w6).
+* **Submission of an Application:** Prospective members must submit an application detailing their experience with vector search technologies and their vision for contributing to the community. If you wish to become a member, please fill out the [Qdrant Stars Application Form](https://forms.gle/vTuy8Fe9RFdt4SiB9).
 * **Review Process:** Our panel reviews applications monthly, focusing on the applicant’s expertise, community engagement, and potential to influence the field.
 * **Interview:** Candidates are invited for a virtual interview to discuss their goals and ask any additional questions about the program.
 
@@ -258,7 +245,7 @@ We love it when our community helps us grow by identifying new talent! If you kn
 
 ### How to Nominate:
 
-Please complete [this nomination form](https://forms.gle/LSTxs9ZZ9mAuQ99NA) to tell us about your nominee. The form will ask for some basic details about the candidate and why you think they’d be a perfect addition to the Qdrant Stars.
+Please complete [this nomination form](https://forms.gle/dgbiX1P5svPSeB3x9) to tell us about your nominee. The form will ask for some basic details about the candidate and why you think they’d be a perfect addition to the Qdrant Stars.
 
 
 ## Stars Discord Channel
