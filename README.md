@@ -231,15 +231,6 @@ Qdrant Stars are passionate advocates and leaders in the vector search community
 * **Interview:** Candidates are invited for a virtual interview to discuss their goals and ask any additional questions about the program.
 
 
-### Communication with Other Stars
-
-We keep all Qdrant Stars informed about the updates via our **exclusive Stars Discord channel**. We also host monthly **Qdrant Office Hours**, an open space where Stars and community members can showcase their projects, share ideas, or just drop in to discuss something they’re working on.
-
-In addition, we organize a quarterly **Qdrant Stars Roundtable**, dedicated to deeper discussions around the program, upcoming initiatives, and community growth.
-
-If any Star needs more personalized guidance or support, we’re always open to scheduling separate catch-ups or mentoring sessions as needed.
-
-
 ## Nominate a Qdrant Star
 
 We love it when our community helps us grow by identifying new talent! If you know someone who’s passionate about vector search technology and could make a significant contribution as a Qdrant Star, we want to hear about them.
