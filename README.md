@@ -59,7 +59,7 @@ We offer a variety of resources to help you prepare impactful presentations, inc
 
 - **Presentation Templates**: Access ready-to-use templates and slides from past talks. One of them is our official Qdrant presentation deck - a ready-to-use slide deck that you can customize for your own talks and sessions.
 
-📊 Access it here: [Official Qdrant Slide](https://docs.google.com/presentation/d/1ADNmZW7_lLvKNE2AgccBTt7xLQbaqV_c/edit?usp=sharing&ouid=116315995182868332664&rtpof=true&sd=true)
+Access it here: [Official Qdrant Slide](https://docs.google.com/presentation/d/1ADNmZW7_lLvKNE2AgccBTt7xLQbaqV_c/edit?usp=sharing&ouid=116315995182868332664&rtpof=true&sd=true)
 - **Essential Talking Points**: Highlight key features and benefits of Qdrant in your presentation.
 - **One-on-One Coaching**: Schedule a coaching session with our DevRel team to refine your presentation skills.
 
@@ -90,7 +90,7 @@ Reward: $25 – $75
 
 Examples: Blog articles, concise tutorials, documentation improvements
 
-Short doesn’t mean shallow. Focus on clarity, accuracy, and usefulness — even a quick technical insight or a well-structured post can make a real difference for others in the community.
+Short doesn’t mean shallow. Focus on clarity, accuracy, and usefulness – even a quick technical insight or a well-structured post can make a real difference for others in the community.
 
 ## Medium Contributions
 
@@ -107,7 +107,7 @@ Reward: $200 – $500
 
 Examples: Open-source integrations, full demo apps, deep benchmarking studies, recorded technical sessions, or smaller events
 
-These efforts require time and expertise — include documentation, code, or results that others can replicate and learn from. Quality and reproducibility matter most.
+These efforts require time and expertise – include documentation, code, or results that others can replicate and learn from. Quality and reproducibility matter most.
 
 ## Special Achievements
 
@@ -115,13 +115,13 @@ Reward: $500 – $1000+
 
 Examples: Flagship tutorials, major community initiatives, or high-impact public talks/events
 
-These are the hallmark contributions — projects or resources that stay valuable for months and elevate the Qdrant ecosystem long-term.
+These are the hallmark contributions – projects or resources that stay valuable for months and elevate the Qdrant ecosystem long-term.
 
 ## Flat-Rate Rewards (6-Month Special!)
 
 Some contributions now have fixed reward amounts for faster recognition:
 
-- 🎥 YouTube Video (>5 minutes)	$175+	Must cover Qdrant meaningfully — e.g., tutorial, performance demo, or integration showcase.
+- 🎥 YouTube Video (>5 minutes)	$175+	Must cover Qdrant meaningfully – e.g., tutorial, performance demo, or integration showcase.
 - 💼 LinkedIn Post	$10 each	Max 5 per month, no re-posts. Posts should provide genuine insights or updates about Qdrant.
 - 🌍 Star Referral Bonus (USA & Western/Northern Europe)	$500 flat Valid for 6 months. Applies to community referrals or events in Priority Zones.
 
@@ -138,7 +138,7 @@ Events in Priority Zones (USA, Western & Northern Europe) receive bonus rewards,
 - Capture attendee **names, emails, companies**, and **consent to be contacted**.  
 - Capture **photos and recordings** if available.  
 - Bonus rewards apply for events held in **Priority Zones** (USA, Western & Northern Europe),  
-  though events from all regions are encouraged — with a primary focus on these key areas.
+  though events from all regions are encouraged – with a primary focus on these key areas.
 
 ### Criteria for Selection
 
@@ -276,7 +276,7 @@ You’ll get a monthly reminder email with the link to the Qdrant Stars Content 
 - Complete the Submission Form:
 Fill out the form with your monthly activities, including reference links, engagement stats, and any related materials.
 - Receive Reward Summary Email:
-Once reviewed, you’ll receive a summary email with your approved reward amount — keep this email on record.
+Once reviewed, you’ll receive a summary email with your approved reward amount – keep this email on record.
 - Prepare Invoice
 Fill out the Qdrant Reimbursement Invoice Template with your approved reward amount and personal/bank details, then export it to PDF.
 - Submit Invoice for Processing:
