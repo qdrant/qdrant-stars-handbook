@@ -80,35 +80,71 @@ These materials help you engage your audience and leave a lasting impression.
 
 ## Content Rewards Program
 
-We recognize and celebrate the passion and dedication you bring to your work. Our reward system is designed to acknowledge contributions at every level, ensuring that every effort, big or small, is valued.
+At Qdrant, we value every contribution, whether it’s a short post, a community talk, or a complex open-source integration.
+Our reward system is designed to acknowledge efforts at every level, ensuring your impact is recognized and celebrated.
 
-### Small Contributions
+⸻
 
-**Examples**: Blog posts, quick tutorials, minor technical solutions  
-**Reward**: $25 - $50
+💡 Small Contributions
 
-Sometimes, the smallest contributions can have the biggest impact. A well-written blog post or a concise tutorial on solving a common issue can save countless hours for new users and make Qdrant more accessible.
+Examples: Blog articles, concise tutorials, documentation improvements
+Reward: $25 – $75
 
-### Medium Contributions
+Short doesn’t mean shallow. Focus on clarity, accuracy, and usefulness — even a quick technical insight or a well-structured post can make a real difference for others in the community.
 
-**Examples**: In-depth guides, technical walkthroughs, detailed code examples  
-**Reward**: $75 - $150
+⸻
 
-These contributions dive deeper, providing users with practical insights and actionable steps. A medium-level tutorial that integrates Qdrant into a real-world project, or detailed answers to technical questions, can elevate our community’s knowledge base.
+⚙️ Medium Contributions
 
-### Large Contributions
+Examples: In-depth tutorials, real-world use case implementations, or integration walkthroughs
+Reward: $75 – $200
 
-**Examples**: Open-source integrations, demo applications, hosting webinars  
-**Reward**: $200 - $500
+Show not just how, but why. Go deeper into architecture choices, performance trade-offs, and how Qdrant was used to solve real problems.
+Examples: integrating with LangChain, DSPy, or custom RAG workflows.
 
-High-impact contributions that require significant time, expertise, and a creative vision. Building tools, creating demo apps, or hosting webinars that showcase Qdrant in action are invaluable for both newcomers and seasoned users.
+⸻
 
-### Special Achievements
+🚀 Large Contributions
 
-**Examples**: Flagship resources, impactful projects, successful community events  
-**Reward**: $500 - $1,000 (or more)
+Examples: Open-source integrations, full demo apps, deep benchmarking studies, recorded technical sessions, or smaller events
+Reward: $200 – $500
 
-These are contributions that set new standards. Whether it’s a comprehensive guide to advanced features or organizing a global hackathon, these efforts have a lasting impact on the Qdrant ecosystem.
+These efforts require time and expertise — include documentation, code, or results that others can replicate and learn from. Quality and reproducibility matter most.
+
+⸻
+
+🌟 Special Achievements
+
+Examples: Flagship tutorials, major community initiatives, or high-impact public talks/events
+Reward: $500 – $1000+
+
+These are the hallmark contributions — projects or resources that stay valuable for months and elevate the Qdrant ecosystem long-term.
+
+⸻
+
+💰 Flat-Rate Rewards (6-Month Special!)
+
+Some contributions now have fixed reward amounts for faster recognition:
+
+Type	Reward	Notes
+🎥 YouTube Video (>5 minutes)	$175+	Must cover Qdrant meaningfully — e.g., tutorial, performance demo, or integration showcase.
+💼 LinkedIn Post	$10 each	Max 5 per month, no re-posts. Posts should provide genuine insights or updates about Qdrant.
+🌍 Star Referral Bonus (USA & Western/Northern Europe)	$500 flat Valid for 6 months. Applies to community referrals or events in Priority Zones.
+
+
+⸻
+
+🧭 In-Person Events
+
+We encourage real-world events that bring the Qdrant community together!
+Events in Priority Zones (USA, Western & Northern Europe) receive bonus rewards, though we welcome and support events from all regions - with a primary focus on these key areas.
+
+Things to Note:
+	•	Share event details (host, partners, location, speakers) in advance whenever possible.
+	•	Travel reimbursement is discretionary and must be pre-approved by Qdrant.
+	•	Capture attendee names, emails, companies, and consent to be contacted.
+	•	Capture photos and recordings if available.
+	•	Bonus rewards apply for events held in Priority Zones.
 
 ### Criteria for Selection
 
