@@ -57,7 +57,9 @@ Need help deciding which conferences to attend? Talk to our team or to your peer
 
 We offer a variety of resources to help you prepare impactful presentations, including:
 
-- **Presentation Templates**: Access ready-to-use templates and slides from past talks.
+- **Presentation Templates**: Access ready-to-use templates and slides from past talks. One of them is our official Qdrant presentation deck - a ready-to-use slide deck that you can customize for your own talks and sessions.
+
+Access it here: [Official Qdrant Slide](https://docs.google.com/presentation/d/1ADNmZW7_lLvKNE2AgccBTt7xLQbaqV_c/edit?usp=sharing&ouid=116315995182868332664&rtpof=true&sd=true)
 - **Essential Talking Points**: Highlight key features and benefits of Qdrant in your presentation.
 - **One-on-One Coaching**: Schedule a coaching session with our DevRel team to refine your presentation skills.
 
@@ -78,35 +80,65 @@ These materials help you engage your audience and leave a lasting impression.
 
 ## Content Rewards Program
 
-We recognize and celebrate the passion and dedication you bring to your work. Our reward system is designed to acknowledge contributions at every level, ensuring that every effort, big or small, is valued.
+At Qdrant, we value every contribution, whether it’s a short post, a community talk, or a complex open-source integration.
+Our reward system is designed to acknowledge efforts at every level, ensuring your impact is recognized and celebrated.
 
-### Small Contributions
 
-**Examples**: Blog posts, quick tutorials, minor technical solutions  
-**Reward**: $25 - $50
+## Small Contributions
 
-Sometimes, the smallest contributions can have the biggest impact. A well-written blog post or a concise tutorial on solving a common issue can save countless hours for new users and make Qdrant more accessible.
+Reward: $25 – $75
 
-### Medium Contributions
+Examples: Blog articles, concise tutorials, documentation improvements
 
-**Examples**: In-depth guides, technical walkthroughs, detailed code examples  
-**Reward**: $75 - $150
+Short doesn’t mean shallow. Focus on clarity, accuracy, and usefulness – even a quick technical insight or a well-structured post can make a real difference for others in the community.
 
-These contributions dive deeper, providing users with practical insights and actionable steps. A medium-level tutorial that integrates Qdrant into a real-world project, or detailed answers to technical questions, can elevate our community’s knowledge base.
+## Medium Contributions
 
-### Large Contributions
+Reward: $75 – $200
 
-**Examples**: Open-source integrations, demo applications, hosting webinars  
-**Reward**: $200 - $500
+Examples: In-depth tutorials, real-world use case implementations, or integration walkthroughs
 
-High-impact contributions that require significant time, expertise, and a creative vision. Building tools, creating demo apps, or hosting webinars that showcase Qdrant in action are invaluable for both newcomers and seasoned users.
+Show not just how, but why. Go deeper into architecture choices, performance trade-offs, and how Qdrant was used to solve real problems.
+Examples: integrating with LangChain, DSPy, or custom RAG workflows.
 
-### Special Achievements
+## Large Contributions
 
-**Examples**: Flagship resources, impactful projects, successful community events  
-**Reward**: $500 - $1,000 (or more)
+Reward: $200 – $500
 
-These are contributions that set new standards. Whether it’s a comprehensive guide to advanced features or organizing a global hackathon, these efforts have a lasting impact on the Qdrant ecosystem.
+Examples: Open-source integrations, full demo apps, deep benchmarking studies, recorded technical sessions, or smaller events
+
+These efforts require time and expertise – include documentation, code, or results that others can replicate and learn from. Quality and reproducibility matter most.
+
+## Special Achievements
+
+Reward: $500 – $1000+
+
+Examples: Flagship tutorials, major community initiatives, or high-impact public talks/events
+
+These are the hallmark contributions – projects or resources that stay valuable for months and elevate the Qdrant ecosystem long-term.
+
+## Flat-Rate Rewards (6-Month Special!)
+
+Some contributions now have fixed reward amounts for faster recognition:
+
+- 🎥 YouTube Video (>5 minutes)	$175+	Must cover Qdrant meaningfully – e.g., tutorial, performance demo, or integration showcase.
+- 💼 LinkedIn Post	$10 each	Max 5 per month, no re-posts. Posts should provide genuine insights or updates about Qdrant.
+- 🌍 Star Referral Bonus (USA & Western/Northern Europe)	$500 flat Valid for 6 months. Applies to community referrals or events in Priority Zones.
+
+
+## In-Person Events
+
+We encourage real-world events that bring the Qdrant community together!
+Events in Priority Zones (USA, Western & Northern Europe) receive bonus rewards, though we welcome and support events from all regions - with a primary focus on these key areas.
+
+### 📝 Things to Note
+
+- Share event details (**host, partners, location, speakers**) in advance whenever possible.  
+- Travel reimbursement is **discretionary** and must be **pre-approved by Qdrant**.  
+- Capture attendee **names, emails, companies**, and **consent to be contacted**.  
+- Capture **photos and recordings** if available.  
+- Bonus rewards apply for events held in **Priority Zones** (USA, Western & Northern Europe),  
+  though events from all regions are encouraged – with a primary focus on these key areas.
 
 ### Criteria for Selection
 
@@ -185,18 +217,6 @@ You're not alone in promoting your events. We are here to provide support to ens
 * **Interact with Qdrant Content:** From our team, from other Stars, or from other community members, it’s important to foster a culture of supporting each other content and increasing the visibility of our creators. 
 * **Welcome New Members:** Act as a knowledgeable point of contact for newcomers, helping them find resources and get involved.
 
-
-### Most Active Member Reward
-
-The Most Active Member Reward recognizes and celebrates the Qdrant Star who consistently engaged the most within our community, adding value through their involvement in Qdrant’s shared content, social media, and online discussions. Every month, the most active member is chosen to receive an exclusive package of Qdrant merchandise and a $500 reward to honor their time and insights.
-
-
-#### Criteria for Selection
-
-* **Participation Frequency**: Regular involvement in community forums such as Reddit or HackerNews, as well as discussions and events.
-* **Quality Contributions:** Provides helpful responses, creates high-quality content, or initiates new discussions.
-
-
 # Get Started
 
 Qdrant Stars are passionate advocates and leaders in the vector search community. Each member brings unique expertise and contributes significantly to advancing and improving vector search technology. To learn more about each of our Stars and their contributions, please visit <span style="text-decoration:underline;">Qdrant Stars Member Page</span>.
@@ -206,7 +226,7 @@ Qdrant Stars are passionate advocates and leaders in the vector search community
 
 ### Joining the Qdrant Stars requires:
 
-* **Submission of an Application:** Prospective members must submit an application detailing their experience with vector search technologies and their vision for contributing to the community. If you wish to become a member, please fill out the [Qdrant Stars Application Form](https://forms.gle/oxpFaDtx4pAztF8w6).
+* **Submission of an Application:** Prospective members must submit an application detailing their experience with vector search technologies and their vision for contributing to the community. If you wish to become a member, please fill out the [Qdrant Stars Application Form](https://forms.gle/vTuy8Fe9RFdt4SiB9).
 * **Review Process:** Our panel reviews applications monthly, focusing on the applicant’s expertise, community engagement, and potential to influence the field.
 * **Interview:** Candidates are invited for a virtual interview to discuss their goals and ask any additional questions about the program.
 
@@ -225,7 +245,7 @@ We love it when our community helps us grow by identifying new talent! If you kn
 
 ### How to Nominate:
 
-Please complete [this nomination form](https://forms.gle/LSTxs9ZZ9mAuQ99NA) to tell us about your nominee. The form will ask for some basic details about the candidate and why you think they’d be a perfect addition to the Qdrant Stars.
+Please complete [this nomination form](https://forms.gle/dgbiX1P5svPSeB3x9) to tell us about your nominee. The form will ask for some basic details about the candidate and why you think they’d be a perfect addition to the Qdrant Stars.
 
 
 ## Stars Discord Channel
@@ -247,13 +267,23 @@ Every quarter, we'll send you a quick email survey to gather your feedback on th
 
 # Submitting Expenses
 
-Effectively managing budgets is key for various activities such as conferences, events, and training sessions. Here are the steps to ensure you handle your reimbursement:
+Effectively managing budgets is key for various activities such as conferences, events, and training sessions. 
 
 
-
-* **Outline all costs:** Specify the activity— could be a conference, a local meetup, or other. Include expenses for the catering, materials, or any travel requirements, and send it for pre-approval to [stars@qdrant.com](mailto:stars@qdrant.com).
-* **Keep Track:** Once your budget is approved, you can proceed with authorized spending. Remember to retain all receipts for your purchases. When seeking reimbursement, submit your receipts along with a completed expense report to the same email.
-* **Exceeding Budget:** If your expenses exceed the pre-approved budget, you must submit a revised budget detailing the additional costs for re-approval before making further commitments. This helps maintain financial control and ensures all expenditures are justified and authorized.
+To ensure smooth and transparent processing of rewards and reimbursements, please follow these steps carefully:
+- Receive Monthly Reminder:
+You’ll get a monthly reminder email with the link to the Qdrant Stars Content Submission Form.
+- Complete the Submission Form:
+Fill out the form with your monthly activities, including reference links, engagement stats, and any related materials.
+- Receive Reward Summary Email:
+Once reviewed, you’ll receive a summary email with your approved reward amount – keep this email on record.
+- Prepare Invoice
+Fill out the Qdrant Reimbursement Invoice Template with your approved reward amount and personal/bank details, then export it to PDF.
+- Submit Invoice for Processing:
+Email both the Reward Summary Email and the PDF Invoice to billing@qdrant.com.
+⚠️ You must maintain a paper trail for all submissions.
+- Receive Payment:
+Once verified, you’ll receive your reward payment via bank deposit within 5–7 business days.
 
 
 ### Talk to Us
