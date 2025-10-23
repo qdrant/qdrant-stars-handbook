@@ -87,6 +87,7 @@ Our reward system is designed to acknowledge efforts at every level, ensuring yo
 ## Small Contributions
 
 Reward: $25 – $75
+
 Examples: Blog articles, concise tutorials, documentation improvements
 
 Short doesn’t mean shallow. Focus on clarity, accuracy, and usefulness — even a quick technical insight or a well-structured post can make a real difference for others in the community.
@@ -94,6 +95,7 @@ Short doesn’t mean shallow. Focus on clarity, accuracy, and usefulness — eve
 ## Medium Contributions
 
 Reward: $75 – $200
+
 Examples: In-depth tutorials, real-world use case implementations, or integration walkthroughs
 
 Show not just how, but why. Go deeper into architecture choices, performance trade-offs, and how Qdrant was used to solve real problems.
@@ -102,6 +104,7 @@ Examples: integrating with LangChain, DSPy, or custom RAG workflows.
 ## Large Contributions
 
 Reward: $200 – $500
+
 Examples: Open-source integrations, full demo apps, deep benchmarking studies, recorded technical sessions, or smaller events
 
 These efforts require time and expertise — include documentation, code, or results that others can replicate and learn from. Quality and reproducibility matter most.
@@ -109,6 +112,7 @@ These efforts require time and expertise — include documentation, code, or res
 ## Special Achievements
 
 Reward: $500 – $1000+
+
 Examples: Flagship tutorials, major community initiatives, or high-impact public talks/events
 
 These are the hallmark contributions — projects or resources that stay valuable for months and elevate the Qdrant ecosystem long-term.
