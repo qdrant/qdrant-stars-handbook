@@ -271,18 +271,18 @@ Effectively managing budgets is key for various activities such as conferences, 
 
 
 To ensure smooth and transparent processing of rewards and reimbursements, please follow these steps carefully:
-- Receive Monthly Reminder
+- ### Receive Monthly Reminder:
 You’ll get a monthly reminder email with the link to the Qdrant Stars Content Submission Form.
-- Complete the Submission Form
+- ### Complete the Submission Form:
 Fill out the form with your monthly activities, including reference links, engagement stats, and any related materials.
-- Receive Reward Summary Email
+- ### Receive Reward Summary Email:
 Once reviewed, you’ll receive a summary email with your approved reward amount — keep this email on record.
 - Prepare Invoice
 Fill out the Qdrant Reimbursement Invoice Template with your approved reward amount and personal/bank details, then export it to PDF.
-- Submit Invoice for Processing
+- ### Submit Invoice for Processing:
 Email both the Reward Summary Email and the PDF Invoice to billing@qdrant.com.
 ⚠️ You must maintain a paper trail for all submissions.
-- Receive Payment
+- ### Receive Payment:
 Once verified, you’ll receive your reward payment via bank deposit within 5–7 business days.
 
 
