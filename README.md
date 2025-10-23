@@ -117,7 +117,7 @@ Examples: Flagship tutorials, major community initiatives, or high-impact public
 
 These are the hallmark contributions — projects or resources that stay valuable for months and elevate the Qdrant ecosystem long-term.
 
-### Flat-Rate Rewards (6-Month Special!)
+## Flat-Rate Rewards (6-Month Special!)
 
 Some contributions now have fixed reward amounts for faster recognition:
 
@@ -132,12 +132,14 @@ Type	Reward	Notes
 We encourage real-world events that bring the Qdrant community together!
 Events in Priority Zones (USA, Western & Northern Europe) receive bonus rewards, though we welcome and support events from all regions - with a primary focus on these key areas.
 
-Things to Note:
-	•	Share event details (host, partners, location, speakers) in advance whenever possible.
-	•	Travel reimbursement is discretionary and must be pre-approved by Qdrant.
-	•	Capture attendee names, emails, companies, and consent to be contacted.
-	•	Capture photos and recordings if available.
-	•	Bonus rewards apply for events held in Priority Zones.
+### 📝 Things to Note
+
+- Share event details (**host, partners, location, speakers**) in advance whenever possible.  
+- Travel reimbursement is **discretionary** and must be **pre-approved by Qdrant**.  
+- Capture attendee **names, emails, companies**, and **consent to be contacted**.  
+- Capture **photos and recordings** if available.  
+- Bonus rewards apply for events held in **Priority Zones** (USA, Western & Northern Europe),  
+  though events from all regions are encouraged — with a primary focus on these key areas.
 
 ### Criteria for Selection
 
