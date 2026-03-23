@@ -59,7 +59,7 @@ We offer a variety of resources to help you prepare impactful presentations, inc
 
 - **Presentation Templates**: Access ready-to-use templates and slides from past talks. One of them is our official Qdrant presentation deck - a ready-to-use slide deck that you can customize for your own talks and sessions.
 
-Access it here: [Official Qdrant Slide](https://docs.google.com/presentation/d/1ADNmZW7_lLvKNE2AgccBTt7xLQbaqV_c/edit?usp=sharing&ouid=116315995182868332664&rtpof=true&sd=true)
+Access it here: [Official Qdrant Slide](https://docs.google.com/presentation/d/1vjlJYeWkpF0unHwLPQt1XCBcNhdTpswJ/edit?usp=sharing&ouid=116315995182868332664&rtpof=true&sd=true)
 - **Essential Talking Points**: Highlight key features and benefits of Qdrant in your presentation.
 - **One-on-One Coaching**: Schedule a coaching session with our DevRel team to refine your presentation skills.
 
