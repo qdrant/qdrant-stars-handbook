@@ -33,18 +33,16 @@ Your contributions will be amplified, celebrated, and essential in shaping the f
 
 # Benefits
 
-As a Qdrant Star, you gain exclusive access to resources, financial rewards, and support for content creation, events, and certifications. This program is designed to amplify your impact, help you grow as a leader, and empower you to shape the future of vector search technology.
+As a Qdrant Star, you gain exclusive access to resources, financial rewards, and support for content creation, and events. This program is designed to amplify your impact, help you grow as a leader, and empower you to shape the future of vector search technology.
 
 ## Exclusive Access to Resources
 
-- **Early Access**: Get firsthand access to Qdrant’s newest features and beta products before their public release. This means you’ll be among the first to explore, test, and even shape our latest innovations.
 - **Feedback Loop**: Your experience and ideas are essential. As a Star, your feedback on new features and functionalities shapes the direction of Qdrant’s development. You’re not just using Qdrant, you’re helping us to build it.
-- **Product Meetings**: Be part of exclusive R&D sessions hosted by our Core team. These webinars disclose upcoming vector search features, technical innovations, and the thinking behind our product roadmap, giving you a front-row seat to Qdrant’s evolution.
+- **Product Meetings**: Be part of exclusive R&D sessions like Office Hours hosted by our Core team. These webinars disclose upcoming vector search features, technical innovations, and the thinking behind our product roadmap, giving you a front-row seat to Qdrant’s evolution.
 
 ## Conference Support for Speakers
 
-Public speaking is a powerful way to amplify your voice and share your expertise. Whether it’s a local meetup or a global conference, we’re here to support you with resources, coaching, and promotional materials. Plus, we’ll reimburse your travel expenses, just submit a report after the event.
-
+Public speaking is a powerful way to amplify your voice and share your expertise. Whether it’s a local meetup or a global conference, we’re here to support you with resources, coaching, and promotional materials.
 
 ### Choosing a Conference:
 
@@ -75,55 +73,51 @@ We supply a range of promotional materials, such as:
 
 These materials help you engage your audience and leave a lasting impression.
 
-**Note**: After your trip, submit all receipts along with a travel expense report to get reimbursed.
-
-
 ## Content Rewards Program
 
 At Qdrant, we value every contribution, whether it’s a short post, a community talk, or a complex open-source integration.
 Our reward system is designed to acknowledge efforts at every level, ensuring your impact is recognized and celebrated.
 
+Each tier below has a clear bar so there’s no guesswork about which one your contribution lands in. If a submission doesn’t clearly meet a tier’s bar, it’s scored at the tier below instead. See [Criteria for Selection](#criteria-for-selection) for how we evaluate every submission the same way.
 
 ## Small Contributions
 
-Reward: $25 – $75
+Reward: $25 – $50
 
-Examples: Blog articles, concise tutorials, documentation improvements
+Examples: Blog articles, concise tutorials, documentation improvements, and write-ups that integrate Qdrant with other technologies (not everything needs to be Qdrant-only).
 
-Short doesn’t mean shallow. Focus on clarity, accuracy, and usefulness – even a quick technical insight or a well-structured post can make a real difference for others in the community.
+**The bar:** Good-faith, useful, and accurate – but not necessarily promoted or high-traction. This tier covers content posted “for the record” rather than actively pushed for engagement. If you *do* actively promote it and it gets good engagement, it likely qualifies for Medium instead.
 
 ## Medium Contributions
 
-Reward: $75 – $200
+Reward: $50 – $150
 
-Examples: In-depth tutorials, real-world use case implementations, or integration walkthroughs
+Examples: In-depth tutorials, real-world use case implementations, or integration walkthroughs (e.g., LangChain, DSPy, custom RAG workflows), and student-focused workshops or events.
 
-Show not just how, but why. Go deeper into architecture choices, performance trade-offs, and how Qdrant was used to solve real problems.
-Examples: integrating with LangChain, DSPy, or custom RAG workflows.
+**The bar:** Quality *and* visibility both matter here. The content should be well-documented, readable, and go beyond “how” into “why” – architecture choices, trade-offs, real problems solved. It should also show good engagement, which in practice means it was actively shared and promoted (socials, newsletters, communities), not just quietly published. Events aimed at students land in this tier as long as they’re well-documented and well-promoted; the same event aimed at industry professionals is scored as Large instead.
 
 ## Large Contributions
 
-Reward: $200 – $500
+Reward: $150 – $300
 
-Examples: Open-source integrations, full demo apps, deep benchmarking studies, recorded technical sessions, or smaller events
+Examples: Open-source integrations, full benchmark or demo apps, deep benchmarking studies, recorded technical sessions, or events/meetups aimed at industry professionals (not students) – especially in Priority Zones (USA, Western & Northern Europe).
 
-These efforts require time and expertise – include documentation, code, or results that others can replicate and learn from. Quality and reproducibility matter most.
+**The bar:** These require real time and expertise – include documentation, code, or results others can reproduce. The professional-audience bar is what separates this tier from Medium: the same event or demo aimed at students is scored as Medium.
 
 ## Special Achievements
 
-Reward: $500 – $1000+
+Reward: $300 – $500+
 
-Examples: Flagship tutorials, major community initiatives, or high-impact public talks/events
+Examples: Flagship tutorials, major community initiatives, or speaking at/organizing a large, high-profile (“hyped”) conference or event.
 
-These are the hallmark contributions – projects or resources that stay valuable for months and elevate the Qdrant ecosystem long-term.
+**The bar:** Reserved for contributions that stay valuable for months and meaningfully move the needle for Qdrant’s visibility. Because this tier usually involves travel, it needs **pre-approval at least 1 month in advance** – that’s what unlocks partial travel reimbursement. Without that advance notice, the trip itself isn’t eligible for reimbursement even if the talk still qualifies for the reward.
 
-## Flat-Rate Rewards (6-Month Special!)
+## Flat-Rate Rewards
 
 Some contributions now have fixed reward amounts for faster recognition:
 
-- 🎥 YouTube Video (>5 minutes)	$175+	Must cover Qdrant meaningfully – e.g., tutorial, performance demo, or integration showcase.
-- 💼 LinkedIn Post	$10 each	Max 5 per month, no re-posts. Posts should provide genuine insights or updates about Qdrant.
-- 🌍 Star Referral Bonus (USA & Western/Northern Europe)	$500 flat Valid for 6 months. Applies to community referrals or events in Priority Zones.
+- LinkedIn Post: $10 each (max 5 per month, no re-posts). Posts should provide genuine insights or updates about Qdrant.
+- Star Referral Bonus (USA & Western/Northern Europe): $500 flat. Applies to community referrals or events in Priority Zones.
 
 
 ## In-Person Events
@@ -134,7 +128,7 @@ Events in Priority Zones (USA, Western & Northern Europe) receive bonus rewards,
 ### 📝 Things to Note
 
 - Share event details (**host, partners, location, speakers**) in advance whenever possible.  
-- Travel reimbursement is **discretionary** and must be **pre-approved by Qdrant**.  
+- Travel reimbursement is **discretionary** and must be **pre-approved by Qdrant** – for Special Achievement–level events (big/hyped conferences), give us **at least 1 month’s notice** so partial travel reimbursement can be arranged.
 - Capture attendee **names, emails, companies**, and **consent to be contacted**.  
 - Capture **photos and recordings** if available.  
 - Bonus rewards apply for events held in **Priority Zones** (USA, Western & Northern Europe),  
@@ -142,12 +136,18 @@ Events in Priority Zones (USA, Western & Northern Europe) receive bonus rewards,
 
 ### Criteria for Selection
 
-To determine the appropriate reward category for your contribution, we evaluate based on:
+To keep tiering and reward amounts transparent and consistent, every submission is scored the same way, regardless of tier:
 
-- **Quality of Content**: How does the contribution benefit the Qdrant community? Does it solve a problem, address a need, or inspire further engagement?
-- **Innovation and Creativity**: Does the contribution bring new ideas or perspectives? Is it an innovative use case or a fresh solution?
-- **Reach**: How many people can benefit from this contribution? Does it increase Qdrant’s visibility and adoption?
-- **Complexity**: What level of expertise or effort was required? Is it a straightforward guide or a deep dive into an advanced topic?
+- **Impact**: Does it solve a problem, address a need, or inspire further engagement with the Qdrant community?
+- **Visibility & Reach**: How many people saw it, and through which channels was it promoted?
+- **Engagement**: Likes, comments, shares, watch time, sign-ups, and similar signals of real traction.
+- **ICP List**: For events especially, did it produce contacts that match Qdrant’s ideal customer profile (names, emails, companies of relevant attendees)?
+- **Marketing/Media Coverage**: Did it get picked up by press, newsletters, or other outlets beyond your own channels?
+- **Reusable Assets**: Photos, videos, or recordings we can feature on Qdrant’s own channels.
+- **Recognition**: Were you selected/accepted as a speaker or contributor at a notable, competitive conference?
+- **Complexity**: What level of expertise or effort was required – a straightforward guide, or a deep dive into an advanced topic?
+
+Once a submission is scored against these criteria, the resulting tier and reward amount are final for that submission – publishing the criteria up front is meant to remove any guesswork or back-and-forth on our end or yours.
 
 
 # Supported Activities
