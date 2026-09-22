@@ -86,23 +86,23 @@ Reward: $25 – $50
 
 Examples: Blog articles, concise tutorials, documentation improvements, and write-ups that integrate Qdrant with other technologies (not everything needs to be Qdrant-only).
 
-**The bar:** Good-faith, useful, and accurate – but not necessarily promoted or high-traction. This tier covers content posted “for the record” rather than actively pushed for engagement. If you *do* actively promote it and it gets good engagement, it likely qualifies for Medium instead.
+**The bar:** Good-faith, useful, and accurate, but not necessarily promoted or high-traction. This tier covers content posted “for the record” rather than actively pushed for engagement. If you *do* actively promote it and it gets good engagement, it likely qualifies for Medium instead.
 
 ## Medium Contributions
 
 Reward: $50 – $150
 
-Examples: In-depth tutorials, real-world use case implementations, or integration walkthroughs (e.g., LangChain, DSPy, custom RAG workflows), and student-focused workshops or events.
+Examples: In-depth tutorials, real-world use case implementations, or integration walkthroughs, and student-focused workshops or events.
 
-**The bar:** Quality *and* visibility both matter here. The content should be well-documented, readable, and go beyond “how” into “why” – architecture choices, trade-offs, real problems solved. It should also show good engagement, which in practice means it was actively shared and promoted (socials, newsletters, communities), not just quietly published. Events aimed at students land in this tier as long as they’re well-documented and well-promoted; the same event aimed at industry professionals is scored as Large instead.
+**The bar:** Quality *and* visibility both matter here. The content should be well-documented, readable, and go beyond “how” into “why”: architecture choices, trade-offs, real problems solved. It should also show good engagement, which in practice means it was actively shared and promoted (socials, newsletters, communities), not just quietly published. Events aimed at students land in this tier as long as they’re well-documented and well-promoted; the same event aimed at industry professionals is scored as Large instead.
 
 ## Large Contributions
 
 Reward: $150 – $300
 
-Examples: Open-source integrations, full benchmark or demo apps, deep benchmarking studies, recorded technical sessions, or events/meetups aimed at industry professionals (not students) – especially in Priority Zones (USA, Western & Northern Europe).
+Examples: Open-source integrations, full benchmark or demo apps, deep benchmarking studies, recorded technical sessions, or events/meetups aimed at industry professionals (not students), especially in Priority Zones (USA, Western & Northern Europe).
 
-**The bar:** These require real time and expertise – include documentation, code, or results others can reproduce. The professional-audience bar is what separates this tier from Medium: the same event or demo aimed at students is scored as Medium.
+**The bar:** These require real time and expertise: include documentation, code, or results others can reproduce. The professional-audience bar is what separates this tier from Medium: the same event or demo aimed at students is scored as Medium.
 
 ## Special Achievements
 
@@ -110,7 +110,7 @@ Reward: $300 – $500+
 
 Examples: Flagship tutorials, major community initiatives, or speaking at/organizing a large, high-profile (“hyped”) conference or event.
 
-**The bar:** Reserved for contributions that stay valuable for months and meaningfully move the needle for Qdrant’s visibility. Because this tier usually involves travel, it needs **pre-approval at least 1 month in advance** – that’s what unlocks partial travel reimbursement. Without that advance notice, the trip itself isn’t eligible for reimbursement even if the talk still qualifies for the reward.
+**The bar:** Reserved for contributions that stay valuable for months and meaningfully move the needle for Qdrant’s visibility. Because this tier usually involves travel, it needs **pre-approval at least 1 month in advance**, since that’s what unlocks partial travel reimbursement. Without that advance notice, the trip itself isn’t eligible for reimbursement even if the talk still qualifies for the reward.
 
 ## Flat-Rate Rewards
 
@@ -128,11 +128,11 @@ Events in Priority Zones (USA, Western & Northern Europe) receive bonus rewards,
 ### 📝 Things to Note
 
 - Share event details (**host, partners, location, speakers**) in advance whenever possible.  
-- Travel reimbursement is **discretionary** and must be **pre-approved by Qdrant** – for Special Achievement–level events (big/hyped conferences), give us **at least 1 month’s notice** so partial travel reimbursement can be arranged.
+- Travel reimbursement is **discretionary** and must be **pre-approved by Qdrant**; for Special Achievement-level events (big/hyped conferences), give us **at least 1 month’s notice** so partial travel reimbursement can be arranged.
 - Capture attendee **names, emails, companies**, and **consent to be contacted**.  
 - Capture **photos and recordings** if available.  
 - Bonus rewards apply for events held in **Priority Zones** (USA, Western & Northern Europe),  
-  though events from all regions are encouraged – with a primary focus on these key areas.
+  though events from all regions are encouraged, with a primary focus on these key areas.
 
 ### Criteria for Selection
 
@@ -145,9 +145,9 @@ To keep tiering and reward amounts transparent and consistent, every submission 
 - **Marketing/Media Coverage**: Did it get picked up by press, newsletters, or other outlets beyond your own channels?
 - **Reusable Assets**: Photos, videos, or recordings we can feature on Qdrant’s own channels.
 - **Recognition**: Were you selected/accepted as a speaker or contributor at a notable, competitive conference?
-- **Complexity**: What level of expertise or effort was required – a straightforward guide, or a deep dive into an advanced topic?
+- **Complexity**: What level of expertise or effort was required: a straightforward guide, or a deep dive into an advanced topic?
 
-Once a submission is scored against these criteria, the resulting tier and reward amount are final for that submission – publishing the criteria up front is meant to remove any guesswork or back-and-forth on our end or yours.
+Once a submission is scored against these criteria, the resulting tier and reward amount are final for that submission. Publishing the criteria up front is meant to remove any guesswork or back-and-forth on our end or yours.
 
 
 # Supported Activities
@@ -269,7 +269,7 @@ You’ll get a monthly reminder email with the link to the Qdrant Stars Content 
 - Complete the Submission Form:
 Fill out the form with your monthly activities, including reference links, engagement stats, and any related materials.
 - Receive Reward Summary Email:
-Once reviewed, you’ll receive a summary email with your approved reward amount – keep this email on record.
+Once reviewed, you’ll receive a summary email with your approved reward amount. Keep this email on record.
 - Prepare Invoice
 Fill out the Qdrant Reimbursement Invoice Template with your approved reward amount and personal/bank details, then export it to PDF.
 - Submit Invoice for Processing:
