@@ -37,6 +37,7 @@ As a Qdrant Star, you gain exclusive access to resources, financial rewards, and
 
 ## Exclusive Access to Resources
 
+- **Beta Program Access**: Get firsthand access to Qdrant’s newest features and beta products before their public release. You’ll be among the first to explore, test, and help shape our latest innovations.
 - **Feedback Loop**: Your experience and ideas are essential. As a Star, your feedback on new features and functionalities shapes the direction of Qdrant’s development. You’re not just using Qdrant, you’re helping us to build it.
 - **Product Meetings**: Be part of exclusive R&D sessions like Office Hours hosted by our Core team. These webinars disclose upcoming vector search features, technical innovations, and the thinking behind our product roadmap, giving you a front-row seat to Qdrant’s evolution.
 
